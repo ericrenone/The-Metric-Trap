@@ -2,13 +2,19 @@
 
 ## A story about numbers that stopped meaning what we thought they meant
 
-On a Tuesday morning in March 2023, Jerome Powell received an email that disturbed him in a way he hadn't expected. It came from a regional Federal Reserve president—someone he'd worked with for years—and it contained a single sentence that appeared to contradict everything the Fed had done over the previous eighteen months: *"I think we've been optimizing the wrong variable."*
+## **Opening: The Dilemma**
 
-The email was sent at 5:47 AM. It was never publicly discussed. But it captured something that was beginning to dawn on central bankers around the world: the metric they'd spent decades perfecting—the 2% inflation target—might not actually be measuring what they thought it was measuring.
+Consider a thought experiment: A central bank has adopted a single numerical target—2% inflation—as its primary metric for success. For twenty years, this works. The metric correlates with reality. But then something breaks.
 
-Powell didn't respond immediately. He sat at his desk in the Marriner S. Eccles Federal Reserve Board Building and read it again. He knew what the president meant. Everyone at the Fed knew what he meant. But admitting it would require dismantling an entire framework that had organized central banking since the year 2000.
+A massive fiscal stimulus floods the economy with money. Inflation rises to 8.9%. The central bank begins raising rates to bring inflation back down. But as rates rise, the financial system begins to strain. Banks fail. Credit markets seize. The central bank faces a choice: continue raising rates to hit the 2% target, which would likely trigger a severe financial crisis, or pause rate increases, which would mean admitting that the target cannot be pursued without destroying the system itself.
 
-It was easier, for now, to say nothing.
+What do they do?
+
+They pause the rate increases. But they never admit that the target is unachievable. Instead, they begin to talk about different inflation measures. They point out that "core inflation"—inflation excluding food and energy—is closer to target. They discuss "sticky" inflation components. They suggest that some inflation is structural.
+
+They begin to redefine success.
+
+By early 2025, inflation is still 3.1-3.4%. By any honest measure, the central bank has failed to meet its target. And yet, rather than acknowledge this failure, the conversation shifts. The metric remains, but its meaning has changed.
 
 ---
 
@@ -32,7 +38,7 @@ In March 2023, Silicon Valley Bank collapsed. In the weeks that followed, three 
 
 And yet inflation was still above the 2% target.
 
-Here's where the story gets interesting: Jerome Powell, the Fed's chair, faced a choice. He could continue raising rates to bring inflation down to 2%, which would likely trigger a deeper financial crisis. Or he could hold steady, acknowledging that the inflation target couldn't be pursued without destroying the financial system itself.
+Here's where the story gets interesting: The Fed's chair faced a choice. He could continue raising rates to bring inflation down to 2%, which would likely trigger a deeper financial crisis. Or he could hold steady, acknowledging that the inflation target couldn't be pursued without destroying the financial system itself.
 
 He chose to hold steady.
 
@@ -46,23 +52,25 @@ In other words, they began to redefine success.
 
 ---
 
-## **Part Two: The Game**
+## **Part Two: The Incentive Trap**
 
-There's a story I keep coming back to, told to me by a corporate executive who worked at a Fortune 500 company. Let's call him David. (He asked to remain anonymous because what he's about to describe is not technically illegal, but it's the kind of thing that CEOs don't typically discuss in public.)
+Here's a thought experiment about how metrics become problems:
 
-David's company was underperforming. Its stock price was sluggish. The board was restless. And David had a problem: he couldn't grow actual earnings. The business had mature markets. Real growth—investing in new products, new markets, new capabilities—was slow. It took years. It was uncertain.
+Imagine you're a CEO of a company. Your compensation is tied to earnings per share. Your board wants earnings per share to grow. The stock market rewards companies whose earnings per share grows. Investors pay premiums for earnings per share growth.
 
-But David discovered that he could grow earnings per share without growing earnings.
+Now imagine that your company is mature. Real growth—new products, new markets, new capabilities—is slow and uncertain. It takes years. It's risky.
 
-Here's how: The company had cash on its balance sheet. Instead of reinvesting that cash in the business—in research, in new facilities, in people—David used it to buy back the company's own stock. When you reduce the number of shares outstanding while keeping earnings constant, the earnings per share number goes up.
+But you've discovered something: you can grow earnings per share without growing earnings.
 
-It's a sleight of hand. It's a purely financial maneuver. It creates no new economic value. But the stock market cares about earnings per share. So the stock price went up.
+Here's how: Your company has cash on its balance sheet. You use that cash to buy back your company's own stock. When you reduce the number of shares outstanding while keeping earnings constant, the earnings per share number goes up.
 
-David was rewarded for this. His stock options became more valuable. His compensation package ballooned. He was lauded by analysts. Business magazines wrote about his financial acumen.
+It's a purely financial maneuver. It creates no new economic value. But the stock market cares about earnings per share. So the stock price goes up. Your options become more valuable. Your compensation package balloons. You're rewarded.
 
-What David had discovered was something powerful: the system was gaming-able. You didn't need to create actual value. You just needed to create the appearance of it.
+This is not cheating. It's entirely legal. But it is, in a deeper sense, gaming the metric.
 
-By 2024, this insight had spread across corporate America like a contagion. Companies that couldn't grow had found a way to make it look like they were growing. The amounts were staggering. In 2024 alone, S&P 500 companies announced $812 billion in stock buybacks—a record. Cumulatively over the past fifteen years, American corporations had repurchased nearly $4 trillion of their own stock.
+The question is: what happens when every CEO in America discovers this same insight?
+
+By 2024, this is no longer a thought experiment. It's a documented pattern. Companies that couldn't grow had found a way to make it look like they were growing through financial engineering.
 
 Think about what that comparison means. Over a fifteen-year period, American corporations spent roughly $4 trillion on buybacks while spending approximately $3-3.5 trillion on new capital investment—new factories, new equipment, new technology.
 
@@ -82,25 +90,25 @@ The companies were creating earnings the way a magician creates a coin from thin
 
 ---
 
-## **Part Three: The Unemployed**
+## **Part Three: The Measurement Problem**
 
-Sarah used to work as a marketing director for a mid-sized advertising firm in Chicago. She had a salary, benefits, a corner office with a view of the lake. In 2021, she was laid off. Like many people who were laid off during the pandemic, she was uncertain what to do next.
+Consider another thought experiment about how metrics can fail:
 
-She had a mortgage. She had bills. She couldn't afford to sit idle.
+The government wants to measure unemployment. It needs a definition. The definition it chooses is: unemployed people actively seeking work, divided by the labor force.
 
-So she did what millions of people have done in the past decade: she became a gig worker. Through an app on her phone, she could accept short-term work—data entry, online research tasks, market research surveys. It didn't pay much. It wasn't stable. But it was income.
+This definition makes sense. It's measurable. It's simple. For decades, it works.
 
-By the official measure of unemployment—the U-3 statistic that the government reports every month—Sarah was no longer unemployed. She was self-employed. She was part of the workforce.
+But then two things happen. First, the economy changes. A growing share of the workforce moves into gig work—work that's available through apps, that doesn't provide traditional employment status, that is unstable and often below workers' skill levels. These workers are "self-employed" and technically not "seeking work" when between gigs.
 
-When the government announced that unemployment was 4.1% in January 2025, Sarah was not counted in the 4.1%. She was counted in the denominator, as part of the labor force, but not in the unemployment numerator because she had gig work.
+Second, the government expands disability insurance and makes it easier to qualify. Millions of working-age people who could potentially work move onto SSDI. They're no longer in the labor force.
 
-Sarah represented a new reality of the American labor market, one that the unemployment statistic didn't capture. By 2025, roughly 10% of the American workforce—about 16 million people—were doing gig work. Some of them were gig workers by choice. Many weren't.
+So the headline unemployment rate—the number reported in newspapers, the number the Federal Reserve uses for policy decisions—becomes increasingly divorced from the actual state of joblessness. A person doing gig work below their skill level isn't counted as unemployed. A person on disability insurance isn't counted as unemployed. A person who has given up looking isn't counted as unemployed.
 
-The Bureau of Labor Statistics knew about this. In the granular details of its employment reports, it published data on gig workers. It noted that gig work was growing faster than traditional employment. It even acknowledged that the classification of gig workers might affect how we should interpret the headline unemployment number.
+The metric remains the same. The definition remains the same. But what the metric measures has changed.
 
-But the headline number—4.1%—remained the metric. That was the number that made it into the newspapers. That was the number that the Federal Reserve used in its policy decisions. That was the number that politicians cited.
+By early 2025, if you calculated unemployment using broader definitions—including gig workers, including discouraged workers, including people on disability who could work—you'd get a number roughly 3-4 percentage points higher than the headline figure.
 
-And that number, very clearly, was wrong.
+But the headline figure is what gets reported. It's what people believe. It's what policy is built around.
 
 There were actually multiple ways you could argue that the unemployment number was wrong.
 
@@ -128,7 +136,7 @@ But the Federal Reserve was making policy decisions based on the aggregated numb
 
 By January 2025, wage growth—another metric the Fed was watching—was officially 3.8-4.2%. This seemed to confirm the tight labor market thesis. If unemployment was low and wages were rising, it stood to reason that workers had leverage.
 
-But Sarah's experience told a different story. She was earning about $18 an hour doing gig work, and she was counted in those wage statistics. When the government averaged her gig wages in with the wages of full-time workers earning $80,000 a year, her low wage dragged down the average.
+But consider the mechanics: A gig worker earning $18 an hour is counted in those wage statistics. When the government averages her gig wages in with the wages of full-time workers earning $80,000 a year, her low wage affects the average. If millions of people move from traditional employment to gig work, the average wage figure can rise even if no individual worker actually sees a raise.
 
 But there was another, stranger statistical effect at play: compositional shifts.
 
@@ -230,22 +238,24 @@ And when it does, we'll have to confront a troubling question: what else are we 
 
 ---
 
-## **Epilogue: The Email**
+## **Epilogue: The Institutional Trap**
 
-I never found out what the regional Federal Reserve president who sent that email to Jerome Powell was proposing. The email was never made public. The two never discussed it openly.
+Here's a final thought experiment about why systems persist even when they've stopped working:
 
-But I did learn something from tracking down people who know both of them: the president wasn't suggesting that the Fed should abandon inflation targeting. He was suggesting something more subtle and more troubling.
+Imagine you're a central bank leader. You've built your institutional credibility on a single promise: we will keep inflation near 2%. You've spent decades refining this framework. You've built an entire bureaucracy around it. Your reputation is tied to it.
 
-He was suggesting that the Fed acknowledge that inflation targeting, as it had been practiced, was no longer viable. That the pursuit of the 2% target was creating financial instability that was worse than the inflation it was trying to prevent.
+Then you discover that the framework doesn't work. The pursuit of the 2% target is creating financial instability that is worse than the inflation it's trying to prevent.
 
-He was suggesting, in other words, that the Fed admit that the metric had become the problem.
+You have a choice. You can acknowledge this publicly. You can say: "We've discovered that this framework is obsolete. We need to build a new one from scratch."
 
-The Fed didn't take that path. Instead, it did what most institutions do when their metrics have become problematic: it adjusted how it reported the metric. It talked about core inflation instead of headline inflation. It discussed "sticky" inflation components. It suggested that the metric itself was less important than financial conditions.
+Or you can do what most institutions do when their foundational metrics have become problematic: you can adjust how you report the metric. You can talk about different inflation measures. You can discuss why the metric is less important than you previously claimed. You can redefine what success means.
 
-In other words, it did what David the CEO had learned to do with earnings per share: when the metric becomes inconvenient, redefine success.
+The second path preserves your institutional credibility in the short term. It avoids admitting that you were wrong. It allows you to claim that you're still winning, just by a different definition of victory.
 
-What happens when every major institution in the economy is simultaneously optimizing for metrics that have become divorced from reality?
+But it also locks your institution into a framework that doesn't work. It makes it harder to adapt when reality finally forces a change.
 
-That's the question no one is asking. And that's the question that matters.
+What happens when every major institution in the economy is simultaneously optimizing for metrics that have become divorced from reality, and simultaneously refusing to acknowledge this fact?
+
+That's the question that matters.
 
 Because the answer is: the system becomes fragile in ways that are hard to see until the moment it breaks. And in our interconnected economy, when one system breaks, all of them do.
